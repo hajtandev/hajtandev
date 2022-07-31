@@ -16,6 +16,8 @@
 ## My Accounts
 
 <p align="center">
+    <a href="https://discord.com/users/637535060811186186" target"blank_">
+  <img src="https://img.shields.io/badge/discord profile%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>  
   <a href="https://discord.gg/kio" target"blank_">
   <img src="https://img.shields.io/badge/1984%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
   <a href="https://github.com/hajtandev" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-111111.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
