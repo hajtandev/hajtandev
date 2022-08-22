@@ -20,16 +20,16 @@
   <img src="https://img.shields.io/badge/discord profile%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>  
   <a href="https://discord.gg/kio" target"blank_">
   <img src="https://img.shields.io/badge/1984/kio%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
-  <a href="https://github.com/hajtandev" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-111111.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://github.com/kakashixyz" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-111111.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://instagram.com/haktaw1" target"blank_"><img src="https://img.shields.io/badge/instagram%20-111111.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="mailto:kakashiwdev@gmail.com" target"blank_">
   <img src="https://img.shields.io/badge/kakashiwdev@gmail.com%20-111111.svg?&style=for-the-badge&logo=gmail&logoColor=white"></a>  
   
 ## Github Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=hajtandev&show_icons=true&theme=dark" width="%100" height="150px" alt="stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hajtandev&layout=compact&theme=dark" width="%100" height="150px" alt="stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=kakashixyz&show_icons=true&theme=dark" width="%100" height="150px" alt="stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kakashixyz&layout=compact&theme=dark" width="%100" height="150px" alt="stats" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=hajtandev&theme=nord" width="%100" height="150px" alt="stats" />
+<img src="https://github-profile-trophy.vercel.app/?username=kakashixyz&theme=nord" width="%100" height="150px" alt="stats" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hajtandev&label=Profile%20views&color=0e75b6&style=flat" alt="hajtandev" /> </p>  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kakashixyz&label=Profile%20views&color=0e75b6&style=flat" alt="kakashixyz" /> </p>  
