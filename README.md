@@ -26,4 +26,3 @@
 
 <img src="https://github-profile-trophy.vercel.app/?username=kakashixyz&theme=nord" width="%100" height="150px" alt="stats" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kakashixyz&label=Profile%20views&color=0e75b6&style=flat" alt="kakashixyz" /> </p>  
