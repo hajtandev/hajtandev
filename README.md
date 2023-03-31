@@ -1,4 +1,4 @@
-<h1 align="center">Kakashi</h1>
+<h1 align="center">kakashi</h1>
 <div align="center">
     <a href="https://discord.com/users/637535060811186186" title="Discord Account"><img src="https://lanyard-profile-readme.vercel.app/api/637535060811186186"></a>
 </div>
