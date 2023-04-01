@@ -17,4 +17,4 @@
   
 
 
-<img src="[https://github-profile-trophy.vercel.app/?username=kakashixyz&theme=nord](https://tenor.com/6Zdg.gif)" width="%100" height="150px" alt="stats" />
+<img src="[https://github-profile-trophy.vercel.app/?username=kakashixyz&theme=nord](https://tenor.com/6Zdg.gif)" width="%100" height="150px" />
