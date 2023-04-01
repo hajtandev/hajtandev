@@ -15,5 +15,9 @@
   <img src="https://img.shields.io/badge/kakashiwdev@gmail.com%20-111111.svg?&style=for-the-badge&logo=gmail&logoColor=white"></a>  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kakashixyz&label=Profile%20views&color =0e75b6&style=flat" alt="kakashixyz" /> </p>
   
+  ## Github Stats
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=kakashixyz&show_icons=true&theme=dark" width="%100" height="150px" alt="stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kakashixyz&layout=compact&theme=dark" width="%100" height="150px" alt="stats" />
 
 
